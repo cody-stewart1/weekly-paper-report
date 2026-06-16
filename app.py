@@ -52,8 +52,8 @@ ROWS_PER_AUTHOR = 20  # rows
 DAYS_BACK = 7  # days
 
 ## Report theme, see /themes
-THEME = "light"
-# THEME = "dark"
+# THEME = "light"
+THEME = "dark"
 # THEME = "paper-light"
 # THEME = "soft-blue"
 
