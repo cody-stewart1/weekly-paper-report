@@ -1,13 +1,18 @@
 # ./config/keywords.yaml
 keywords:
-  - indoor environmental quality
-  - IEQ
-  - IEQ monitoring
-  - thermal comfort
-  - indoor air quality
-  - IAQ
-  - user behavior modelling
-  - CO2
-  - CO2 distribution
-  - occupancy detection
-  - sensor
+  - nitrogen vacancy
+  - nitrogen-vacancy
+  - silicon vacancy
+  - silicon-vacancy
+  - diamond defect
+  - NV center
+  - NV centre
+  - color center
+  - colour centre
+  - quantum spin defect
+  - quantum sensing
+  - quantum point defect
+  - T center
+  - T centre
+  - ODMR
+  - optically detected magnetic resonance
