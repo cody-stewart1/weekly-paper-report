@@ -158,7 +158,7 @@ if __name__ == "__main__":
         ],
         report_title="Weekly Paper Report",
         subtitle=f"{today}",
-        top_picks_n=10,
+        top_picks_n=100,
         cluster_top_picks_n=4,
         theme=THEME,
         keywords=keywords,
